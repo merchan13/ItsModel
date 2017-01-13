@@ -9,8 +9,7 @@ body.index {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Open Sans', sans-serif;
-	/*font-family: 'PT Sans', sans-serif;*/
+	font-family: 'Raleway', sans-serif;
 }
 
 .color-overlay{
@@ -38,7 +37,7 @@ body.index {
     font-size: 86px;
     line-height: 1.1em;
     text-transform: none;
-    font-weight:100;
+    font-weight:300;
     font-style:normal;
 	letter-spacing: 15px;
 	color: #f2f2f2;
@@ -49,7 +48,7 @@ body.index {
 	font-size: 28px;
     line-height: 1.1em;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
 	letter-spacing: 5px;
 	color: #cccccc;
@@ -92,8 +91,7 @@ body.home {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Open Sans', sans-serif;
-	/*font-family: 'PT Sans', sans-serif;*/
+	font-family: 'Raleway', sans-serif;
 }
 
 /*temporal..*/
