@@ -1,10 +1,10 @@
 /* ==========================================================================
 Landing page.
 ========================================================================== */
-body.index {
+body {
 	color: #666666;
-	background: #000000;
-	background: url('../images/principal/background.jpg') no-repeat center center fixed;
+	background: #FFFFFF;
+	background: url('../images/demo1/kendall8.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -19,7 +19,7 @@ body.index {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-color: rgba(0,0,0,.5);
+	background-color: rgba(0,0,0,.6);
 	z-index: 1;
 }
 
@@ -34,18 +34,18 @@ body.index {
 	max-width: 750px;
 }
 
-.about h1{
+.nombre-modelo h1{
     font-size: 86px;
     line-height: 1.1em;
     text-transform: none;
     font-weight:100;
     font-style:normal;
-	letter-spacing: 15px;
+	letter-spacing: 12px;
 	color: #f2f2f2;
 	text-align: center;
 }
 
-.about p{
+.nombre-modelo p{
 	font-size: 28px;
     line-height: 1.1em;
     text-transform: uppercase;
@@ -81,31 +81,6 @@ body.index {
   	color: #333333;
 	transition: color 0.5s ease-in, background-color 0.5s ease-in;
 }
-
-/* ==========================================================================
-Home page.
-========================================================================== */
-body.home {
-	color: #666666;
-	background: #FFFFFF;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	font-family: 'Open Sans', sans-serif;
-	/*font-family: 'PT Sans', sans-serif;*/
-}
-
-/*temporal..*/
-body.home a{
-	display: inline-block;
-	text-align: center;
-}
-body.home img {
-	height: 300px;
-	width: 531px;
-}
-
 
 /* ==========================================================================
 Widgets.
